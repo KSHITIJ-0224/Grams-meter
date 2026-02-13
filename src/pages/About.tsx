@@ -23,11 +23,11 @@ const About = () => {
 
         <div className="bg-gradient-to-r from-gold/5 to-gold/10 rounded-lg p-12 mb-16 border border-gold/20">
           <p className="font-accent text-gold-dark tracking-[0.3em] uppercase text-sm mb-4 font-bold">Meet Our Founder</p>
-          <h2 className="font-display text-3xl font-bold text-foreground mb-6">Gautam Mariya</h2>
+          <h2 className="font-display text-3xl font-bold text-foreground mb-6">Gautam Maniar</h2>
           
           <div className="space-y-6 font-body text-muted-foreground">
             <p className="leading-relaxed">
-              With over two decades of expertise in the textile industry, Gautam Mariya founded Grams & Meters with a singular vision: to make premium quality fabrics accessible and affordable to everyone. His deep understanding of fabric quality, sourcing, and market dynamics shaped the foundation of our business.
+              With over two decades of expertise in the textile industry, Gautam Maniar founded Grams & Meters with a singular vision: to make premium quality fabrics accessible and affordable to everyone. His deep understanding of fabric quality, sourcing, and market dynamics shaped the foundation of our business.
             </p>
             <p className="leading-relaxed">
               Gautam&apos;s journey began in the bustling textile markets of Mumbai, where he developed an eye for distinguishing exceptional fabrics from ordinary ones. His passion for excellence and commitment to transparency led him to establish relationships with the finest mills across India and internationally. This network of trusted suppliers ensures that every piece of fabric in our store meets the highest standards.
@@ -80,7 +80,7 @@ const About = () => {
             height="100%"
             frameBorder="0"
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3772.7643857894826!2d72.82297!3d19.01674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c9c4c4c4c4c5%3A0x8c0c0c0c0c0c0c0c!2sKeval%20Industrial%20Estate%2C%20Lower%20Parel%2C%20Mumbai%20400%20013!5e0!3m2!1sen!2sin!4v1644556789012"
-            allowFullScreen=""
+            allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
             className="w-full h-full"
