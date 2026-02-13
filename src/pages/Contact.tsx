@@ -19,7 +19,7 @@ const Contact = () => {
     <main className="py-16">
       <div className="container mx-auto px-4 max-w-4xl">
         <div className="text-center mb-14">
-          <p className="font-accent text-gold tracking-[0.3em] uppercase text-sm mb-2">Get In Touch</p>
+          <p className="font-accent text-gold tracking-[0.3em] uppercase text-sm mb-2 font-bold">Get In Touch</p>
           <h1 className="font-display text-4xl md:text-5xl font-bold text-foreground">Contact Us</h1>
         </div>
 

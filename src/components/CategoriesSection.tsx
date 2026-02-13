@@ -14,7 +14,7 @@ const CategoriesSection = () => {
     <section className="py-20 bg-background">
       <div className="container mx-auto px-4">
         <div className="text-center mb-14">
-          <p className="font-accent text-gold tracking-[0.3em] uppercase text-sm mb-2">Our Collections</p>
+          <p className="font-accent text-gold-dark tracking-[0.3em] uppercase text-sm mb-2 font-bold">Our Collections</p>
           <h2 className="font-display text-4xl font-bold text-foreground">Shop by Category</h2>
         </div>
 

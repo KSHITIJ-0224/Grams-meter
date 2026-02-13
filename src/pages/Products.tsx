@@ -19,7 +19,7 @@ const Products = () => {
     <main className="py-12">
       <div className="container mx-auto px-4">
         <div className="text-center mb-10">
-          <p className="font-accent text-gold tracking-[0.3em] uppercase text-sm mb-2">Our Collection</p>
+          <p className="font-accent text-gold-dark tracking-[0.3em] uppercase text-sm mb-2 font-bold">Our Collection</p>
           <h1 className="font-display text-4xl font-bold text-foreground">Premium Fabrics</h1>
         </div>
 

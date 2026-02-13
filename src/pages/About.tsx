@@ -5,7 +5,7 @@ const About = () => {
     <main className="py-16">
       <div className="container mx-auto px-4 max-w-4xl">
         <div className="text-center mb-14">
-          <p className="font-accent text-gold tracking-[0.3em] uppercase text-sm mb-2">Our Story</p>
+          <p className="font-accent text-gold tracking-[0.3em] uppercase text-sm mb-2 font-bold">Our Story</p>
           <h1 className="font-display text-4xl md:text-5xl font-bold text-foreground">About Grams & Meters</h1>
         </div>
 
@@ -19,6 +19,26 @@ const About = () => {
           <p className="leading-relaxed">
             Whether you&apos;re a bespoke tailor, fashion designer, or an individual seeking the perfect fabric for your next outfit, we offer personalized service to help you find exactly what you need.
           </p>
+        </div>
+
+        <div className="bg-gradient-to-r from-gold/5 to-gold/10 rounded-lg p-12 mb-16 border border-gold/20">
+          <p className="font-accent text-gold-dark tracking-[0.3em] uppercase text-sm mb-4 font-bold">Meet Our Founder</p>
+          <h2 className="font-display text-3xl font-bold text-foreground mb-6">Gautam Mariya</h2>
+          
+          <div className="space-y-6 font-body text-muted-foreground">
+            <p className="leading-relaxed">
+              With over two decades of expertise in the textile industry, Gautam Mariya founded Grams & Meters with a singular vision: to make premium quality fabrics accessible and affordable to everyone. His deep understanding of fabric quality, sourcing, and market dynamics shaped the foundation of our business.
+            </p>
+            <p className="leading-relaxed">
+              Gautam&apos;s journey began in the bustling textile markets of Mumbai, where he developed an eye for distinguishing exceptional fabrics from ordinary ones. His passion for excellence and commitment to transparency led him to establish relationships with the finest mills across India and internationally. This network of trusted suppliers ensures that every piece of fabric in our store meets the highest standards.
+            </p>
+            <p className="leading-relaxed">
+              What sets Gautam apart is his customer-centric approach. He believes that choosing the perfect fabric should be an experience, not a transaction. His personal attention to detail and willingness to understand each customer&apos;s unique needs has earned him a loyal clientele comprising master craftsmen, fashion designers, and discerning individuals who refuse to compromise on quality.
+            </p>
+            <p className="leading-relaxed">
+              Today, Grams & Meters stands as a testament to Gautam&apos;s dedication to quality, integrity, and service excellence. He continues to personally oversee our collections, ensuring that every fabric we offer reflects the standard of excellence that defines our brand.
+            </p>
+          </div>
         </div>
 
         <div className="grid md:grid-cols-2 gap-8 mb-12">
